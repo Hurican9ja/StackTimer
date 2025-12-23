@@ -40,6 +40,8 @@ Precision haptic feedback and melodic audio chimes notify you of transitions, al
 - **Architecture:** MVVM Pattern
 - **Persistence:** GSON for JSON Serialization
 
+ # ***Vibecoded with help of Google AI Studio. Made for personal use but decided to share***
+
 ---
 
 ## 💾 Backup & Restore
