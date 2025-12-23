@@ -8,7 +8,7 @@ Stack Timer is a professional-grade Android utility built for users who need to 
 ## 🚀 Key Features
 
 ### 🧱 The Block Builder (Editor)
-Build your routine like Lego blocks. Create individual timer segments with custom labels and durations. Drag and drop to rearrange your flow instantly.
+Build your routine like Lego blocks. Create individual timer segments with custom labels and durations.
 
 ### 📈 The Vertical Timeline (Execution)
 Visualize your progress through a vertical timeline. The "Hero" card shows the current timer with a thick progress ring and monospace typography, while upcoming intervals peek from the bottom.
