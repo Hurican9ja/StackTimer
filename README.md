@@ -50,7 +50,7 @@ Never lose your routines. Export your entire library into a "Magic Code" string 
 ---
 
 ## 📥 Installation
-1. Go to the [Releases](https://github.com/YOUR_USERNAME/StackTimer/releases) section.
+1. Go to the [Releases](https://github.com/Hurican9ja/StackTimer/releases) section.
 2. Download the `StackTimer_v1.0.apk`.
 3. Open the file on your Android device and install.
 
