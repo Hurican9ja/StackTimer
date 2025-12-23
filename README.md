@@ -47,3 +47,9 @@ Never lose your routines. Export your entire library into a "Magic Code" string 
 1. Go to the [Releases](https://github.com/YOUR_USERNAME/StackTimer/releases) section.
 2. Download the `StackTimer_v1.0.apk`.
 3. Open the file on your Android device and install.
+
+   <p align="center">
+  <img src="screenshots/library.jpg" width="30%" />
+  <img src="screenshots/editor.jpg" width="30%" />
+  <img src="screenshots/backup.jpg" width="30%" />
+</p>
