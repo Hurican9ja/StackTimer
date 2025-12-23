@@ -25,7 +25,11 @@ Precision haptic feedback and melodic audio chimes notify you of transitions, al
 - **Material You:** Fully supports Material 3 Dynamic Colors, adapting to your phone's wallpaper.
 - **Local-First Privacy:** Uses a high-performance **Room Database** to store your stacks locally. No accounts or cloud required.
 - **Buttery Smooth:** Built with **Jetpack Compose** and Spring Physics for 60fps animations.
-
+   <p align="center">
+  <img src="screenshots/library.jpg" width="30%" />
+  <img src="screenshots/editor.jpg" width="30%" />
+  <img src="screenshots/backup.jpg" width="30%" />
+</p>
 ---
 
 ## 🛠 Technical Stack
@@ -48,8 +52,4 @@ Never lose your routines. Export your entire library into a "Magic Code" string 
 2. Download the `StackTimer_v1.0.apk`.
 3. Open the file on your Android device and install.
 
-   <p align="center">
-  <img src="screenshots/library.jpg" width="30%" />
-  <img src="screenshots/editor.jpg" width="30%" />
-  <img src="screenshots/backup.jpg" width="30%" />
-</p>
+
