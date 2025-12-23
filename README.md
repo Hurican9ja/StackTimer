@@ -1,4 +1,4 @@
-# ⏳ Stack Timer
+# ⏳ StackTimer
 **The Ultimate "Sequence of Time" Routine & Interval App**
 
 Stack Timer is a professional-grade Android utility built for users who need to sequence their time. Unlike standard countdown apps, Stack Timer allows you to build a "Playlist of Time" by stacking individual segments into a single, seamless flow.
